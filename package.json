@@ -2,8 +2,8 @@
   "name": "rent-a2-z",
   "version": "0.0.0",
   "engines": {
-    "node": "6.11.0",
-    "npm": "3.10.10"
+    "node": "10.1.0",
+    "npm": "6.1.0"
   },
   "scripts": {
     "ng": "ng",
